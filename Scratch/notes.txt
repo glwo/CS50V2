@@ -1,0 +1,7 @@
+ASCII = American Standard Code for Information Exchange
+
+Characters represent a numeric value (A = 65, a = 97)
+
+Unicode also includes emojis due to volume of potential combinations
+
+RGB = At least 3 bytes (red, green, blue) that depict color in images per pixel
